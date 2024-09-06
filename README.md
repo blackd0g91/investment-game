@@ -1,0 +1,18 @@
+## TODO
+- AI Players
+- More types of businesses
+- Jobs
+- Loans
+- Random events
+    - **Player** finds money
+    - **Player** is robbed
+    - **Player** is fined
+    - **Player** is sued
+    - **Player** is fired
+    - **Player** is promoted
+    - **Player** is awarded
+    - **Business** is robbed
+    - **Business** is fined
+    - **Business** is sued
+    - **Business** is closed
+    - **Business** is destroyed
